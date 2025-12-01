@@ -1,2 +1,2 @@
-# Maquina-Exprendedora
-Creamos una maquina exprendedora virtual, funcional, utilizando lo aprendido en clase.
+# Maquina-Expendedora
+Creamos una maquina expendedora virtual, funcional, utilizando lo aprendido en clase.
